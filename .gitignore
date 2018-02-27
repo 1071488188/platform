@@ -91,3 +91,5 @@ platform-schedule/target/
 platform-shiro/src/test/
 platform-shiro/target/
 platform-shop/target/
+.idea
+/platform-admin/*.iml

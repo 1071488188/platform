@@ -1,4 +1,4 @@
-var NewApiRootUrl = 'http://localhost:8080/api/';
+var NewApiRootUrl = 'https://jjj.chaniqure.site/platform-framework/api/';
 
 module.exports = {
     IndexUrl: NewApiRootUrl + 'index/index', //首页数据接口

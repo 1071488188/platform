@@ -18,7 +18,6 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="platform" target="1.8" />
-      <module name="platform-activiti" target="1.8" />
       <module name="platform-admin" target="1.8" />
       <module name="platform-api" target="1.8" />
       <module name="platform-common" target="1.8" />
